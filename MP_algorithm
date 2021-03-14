@@ -1,3 +1,5 @@
+#MP算法
+
 dictionary = [-0.707 0.707;0.8 0.6;0 -1]';
 x = [1.65 -0.25]';
 [M,N] = size(dictionary);
